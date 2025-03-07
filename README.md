@@ -16,7 +16,7 @@ This project walks through **data preprocessing, exploratory data analysis (EDA)
 
 ## 📜 Table of Contents  
 
-1. [Introduction](#https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/03%20Scripts)  
+1. [Introduction](#[https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/03%20Scripts](https://github.com/BamideleAdeola/BasketAnalysis---Python/blob/main/BasketAnalysis_python_project/03%20Scripts/4.10%20-%20Coding%20Etiquette%20and%20final%20submission.ipynb)  
 2. [Dataset](#dataset)  
 3. [Project Setup](#project-setup)  
 4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
@@ -30,7 +30,8 @@ This project walks through **data preprocessing, exploratory data analysis (EDA)
 12. [Conclusion](#conclusion)  
 13. [References & Resources](#references--resources)  
 14. [Contributing](#contributing)  
-15. [License](#license)  
+15. [License](#license)
+16. [bams](#https://github.com/BamideleAdeola/BasketAnalysis---Python/blob/main/BasketAnalysis_python_project/03%20Scripts/4.10%20-%20Coding%20Etiquette%20and%20final%20submission.ipynb)
 
 ---
 
