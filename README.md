@@ -1,6 +1,6 @@
-# 🛒 Basket Analysis - Python Project  
+# Basket Analysis - Python Project  
 
-## 📌 Project Description  
+## Project Description  
 Basket analysis is a key technique used in retail and e-commerce to identify associations between items frequently bought together. 
 This project applies **Association Rule Mining** using the **Apriori Algorithm** to discover purchasing patterns in transactional data.  
 
@@ -24,12 +24,7 @@ This project walks through **data preprocessing, exploratory data analysis (EDA)
 4. [Visualization](https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/04%20Analysis/Visualization)
 5. [Sent to Client](https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/05%20Sent%20to%20Client)  
 
-## 🛠 Introduction  
-- **What is Basket Analysis?**  
-  Basket analysis identifies relationships between products frequently purchased together. This is commonly used in market basket optimization, recommendation systems, and customer behavior analysis.  
-- **Objective of the Project**  
-  The goal is to apply **Association Rule Mining** techniques to uncover hidden patterns in transactional data.  
-- **Key Features**  
-  -
-
-
+## Key Features
+- The data is over 30 million rows
+- Data was saved in a pickle file to optimize load performance
+- 
