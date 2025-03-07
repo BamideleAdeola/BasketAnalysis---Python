@@ -18,10 +18,11 @@ This project walks through **data preprocessing, exploratory data analysis (EDA)
 
 1. [Project Requirement](https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/01%20Project%20Requirement)  
 2. [Scripts](https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/03%20Scripts)
-3. [Visualization](https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/04%20Analysis/Visualization)
-4. [Project Setup](#project-setup)  
-
----
+   - [4.2 Jupyter Navigation and Python Data types](https://github.com/BamideleAdeola/BasketAnalysis---Python/blob/main/BasketAnalysis_python_project/03%20Scripts/4.2%20Jupyter%20Navigation%20and%20python%20Data%20types.ipynb)
+   - [4.3 Data Import and Descriptive Analysis-Solution](https://github.com/BamideleAdeola/BasketAnalysis---Python/blob/main/BasketAnalysis_python_project/03%20Scripts/4.3%20Data%20Import%20and%20Descriptive%20Analysis-Solution.ipynb)
+   - [4.4 Data Wrangling and Subsetting](https://github.com/BamideleAdeola/BasketAnalysis---Python/blob/main/BasketAnalysis_python_project/03%20Scripts/4.4%20Data%20Wrangling%20and%20Subsetting.ipynb)
+4. [Visualization](https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/04%20Analysis/Visualization)
+5. [Sent to Client](https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/05%20Sent%20to%20Client)  
 
 ## 🛠 Introduction  
 - **What is Basket Analysis?**  
