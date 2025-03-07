@@ -16,7 +16,7 @@ This project walks through **data preprocessing, exploratory data analysis (EDA)
 
 ## 📜 Table of Contents  
 
-1. [Introduction](#(https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/03%20Scripts))  
+1. [Introduction](#https://github.com/BamideleAdeola/BasketAnalysis---Python/tree/main/BasketAnalysis_python_project/03%20Scripts)  
 2. [Dataset](#dataset)  
 3. [Project Setup](#project-setup)  
 4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
