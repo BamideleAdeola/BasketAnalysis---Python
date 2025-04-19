@@ -27,4 +27,4 @@ This project walks through **data preprocessing, exploratory data analysis (EDA)
 ## Key Features
 - The data is over 30 million rows
 - Data was saved in a pickle file to optimize load performance
-- 
+- Data file has been removed from the code
